@@ -1,6 +1,6 @@
 # retail_Orders
 ## Data Cleaning Using Python
-* Process (Convert,drop,rename,fillna,drive new columne)
+* Process (Convert,drop,rename,fillna,drive new column)
 ## Data Analysis
 * find top 10 highest reveue generating products
 * find top 5 highest selling products in each region
